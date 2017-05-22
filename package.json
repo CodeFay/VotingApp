@@ -1,11 +1,11 @@
 {
-  "name": "CodeFay Voting App",
+  "name": "codefay_votingapp",
   "description": "FreeCodeCamp Voting App, Back End Certification",
   "main": "server.js",
   "dependencies" : {
     "express" : "~4.0.0",
     "ejs" : "~0.8.5",
-    "mongoose" : "~3.8.1",
+    "mongoose" : "~4.4",
     "passport" : "~0.1.17",
     "passport-local" : "~0.1.6",
     "passport-facebook" : "~1.0.2",
